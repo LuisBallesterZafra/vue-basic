@@ -30,7 +30,7 @@ export const searchWeather = (location, days) => {
 	const predictions = []
 	for (let index = days; index >= 0; index--) {
 		const timestamp = new Date()
-		timestamp.setDate(-index)
+		timestamp.setDate(timestamp.getDate() - index)
 		predictions.push(generateWeather(location, timestamp.toISOString()))
 	}
 	return mockRequest({ ...generateWeather(location), predictions })
