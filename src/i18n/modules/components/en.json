@@ -1,0 +1,14 @@
+{
+	"components": {
+		"formfields": {
+			"required": "Required field"
+		},
+		"topbar": {
+			"logout": "Logout"
+		},
+		"weatherinfo": {
+			"rainchance": "Rainfall",
+			"windspeed": "Wind"
+		}
+	}
+}

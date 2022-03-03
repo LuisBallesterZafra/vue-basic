@@ -1,0 +1,9 @@
+{
+	"accessibility": {
+		"": "Login",
+		"fill": "fill",
+		"username": "username",
+		"password": "password",
+		"login": "do login"
+	}
+}

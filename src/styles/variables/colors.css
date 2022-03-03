@@ -1,0 +1,17 @@
+:root {
+	--primary: #4a90e2;
+	--primary-disabled: rgba(74, 144, 226, 0.5);
+	--secondary: #f0bb41;
+	--black: #292929;
+	--black-secondary: #4a4a4a;
+	--white: #ffffff;
+	--layer: #faf9f9;
+	--layer-secondary: #f6f6f6;
+	--help: #818181;
+	--help-secondary: #d1d1d1;
+	--background: #eeeeee;
+	--black-icon: #1d1d1b;
+
+	/* Special font color*/
+	--font-bold-color: #505759;
+}

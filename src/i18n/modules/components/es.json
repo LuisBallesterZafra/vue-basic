@@ -1,0 +1,14 @@
+{
+	"components": {
+		"formfields": {
+			"required": "Campo obligatorio"
+		},
+		"topbar": {
+			"logout": "Salir"
+		},
+		"weatherinfo": {
+			"rainchance": "Precipitaciones",
+			"windspeed": "Viento"
+		}
+	}
+}

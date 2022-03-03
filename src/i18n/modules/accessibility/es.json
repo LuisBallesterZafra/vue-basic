@@ -1,0 +1,8 @@
+{
+	"accessibility": {
+		"fill": "rellenar",
+		"username": "usuario",
+		"password": "contraseña",
+		"login": "solicitar autenticación"
+	}
+}

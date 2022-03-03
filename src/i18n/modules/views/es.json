@@ -1,0 +1,29 @@
+{
+	"views": {
+		"login": {
+			"do": "Acceder",
+			"username": "Usuario",
+			"password": "Contraseña"
+		},
+		"notfound": {
+			"home": "Pagina principal"
+		},
+		"home": {
+			"": ""
+		},
+		"user": {
+			"grid": {
+				"usr": "Usuario",
+				"name": "Nombre",
+				"language": "Idioma",
+				"email": "Email"
+			},
+			"form": {
+				"usr": "Usuario",
+				"name": "Nombre",
+				"language": "Idioma",
+				"email": "Email"
+			}
+		}
+	}
+}

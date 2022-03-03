@@ -1,0 +1,29 @@
+{
+	"views": {
+		"login": {
+			"do": "Acceder",
+			"username": "Username",
+			"pasword": "Password"
+		},
+		"notfound": {
+			"home": "Go Home"
+		}
+	},
+	"home": {
+		"": ""
+	},
+	"users": {
+		"grid": {
+			"usr": "Username",
+			"name": "Name",
+			"language": "Language",
+			"email": "Email"
+		},
+		"form": {
+			"usr": "Username",
+			"name": "Name",
+			"language": "Language",
+			"email": "Email"
+		}
+	}
+}

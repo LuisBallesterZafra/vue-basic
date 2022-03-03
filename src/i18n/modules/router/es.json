@@ -1,0 +1,8 @@
+{
+	"router": {
+		"home": "Inicio",
+		"weather": "Tiempo",
+		"users": "Usuarios",
+		"usersform": "Usuario"
+	}
+}

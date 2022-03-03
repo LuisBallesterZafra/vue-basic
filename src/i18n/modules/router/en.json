@@ -1,0 +1,8 @@
+{
+	"router": {
+		"home": "Home",
+		"weather": "Weather",
+		"usersgrid": "Users",
+		"usersform": "User"
+	}
+}

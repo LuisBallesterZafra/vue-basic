@@ -1,0 +1,43 @@
+:root {
+	--app-header-height: 60px;
+}
+
+* {
+	box-sizing: border-box;
+	font-family: var(--font-family);
+}
+
+.v-application {
+	height: 100vh;
+	overflow: hidden;
+}
+
+.vb-expand {
+	height: 100%;
+	width: 100%;
+}
+
+.vb-expand-y {
+	height: 100%;
+}
+
+.vb-expand-x {
+	width: 100%;
+}
+
+.vb-fixed-window-y {
+	height: 100vh;
+}
+
+.vb-app-version {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	font-family: ui-monospace;
+	font-size: 10px;
+	padding: 2px 5px;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
