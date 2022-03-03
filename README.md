@@ -12,18 +12,10 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Login
 
 ```
-npm run build
+Login with:
+admin -> admin -> Role::ADMIN
+user0 -> user0 -> Role::BASIC_USER
 ```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
